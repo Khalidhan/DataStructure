@@ -37,6 +37,6 @@ public class sortedSquares_977 {
         int[] arr = {-7,-3,2,3,11};
         int[] squares = sortedSquares(arr);
         System.out.println(Arrays.toString(squares));
-
+        System.out.println("xinjiaru");
     }
 }
